@@ -1,4 +1,4 @@
-ВиконавЖ Уваров Г.О. ст. гр. СПм-22-4
+Виконав: Уваров Г.О. ст. гр. СПм-22-4
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
